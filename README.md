@@ -1,4 +1,4 @@
-# Beevelop's base image (`FROM Ubuntu 16.04`)
+# Tairo's base image (`FROM Ubuntu 16.04`)
 ----
 ### Pull from Docker Hub
 ```
